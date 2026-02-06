@@ -290,27 +290,14 @@ We welcome contributions! Areas for improvement:
 
 ## 👥 Team
 
+- **Darshan Nere** - SFT baseline implementation and GRPO training
 - **Vikrant Bhati** - GRPO implementation and training
 - **Ishani Kohli** - Data processing and reward function design
 - **Eeshan Umrani** - Multi-dataset evaluation
-- **Darshan Nere** - SFT baseline implementation
 - **Sarvesh Chakradeo** - LLM-as-Judge evaluation
 
 Virginia Tech, Department of Computer Science
 
-## 📝 Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@article{bhati2024medical-cot-grpo,
-  title={Enhancing Medical Data Prediction with Chain-of-Thought Reasoning},
-  author={Bhati, Vikrant and Kohli, Ishani and Umrani, Eeshan and Nere, Darshan and Chakradeo, Sarvesh},
-  journal={CS 5624 Final Project Report},
-  year={2024},
-  institution={Virginia Tech}
-}
-```
 
 ## 📄 License
 
@@ -332,3 +319,5 @@ For questions or collaborations:
 ---
 
 **Note**: This model is for research purposes only and should not be used for actual medical diagnosis without validation by healthcare professionals.
+
+
